@@ -8,4 +8,4 @@ I have an exceptional expertise in C#, NET/.NET Core, ASP.NET Core, EF Core, Gra
 I am an expert in OOP, DDD, Design Patterns, SOLID, DRY, KISS, YAGNI and various architectural principles. I enjoy writing clean and testable code that is easy to read and maintain. I am passionate about 
 learning new technologies and building modern, robust and high-quality server and client side software.
 
-I enjoy sharing my knowledge and experience with other people that help them grew as a better developers.
+I enjoy sharing my knowledge and experience with other people that help them grow as a better developers.
