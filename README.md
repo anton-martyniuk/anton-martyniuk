@@ -9,6 +9,6 @@ I am an expert in OOP, DDD, Design Patterns, SOLID, DRY, KISS, YAGNI and various
 learning new technologies and building modern, robust and high-quality server and client side software.
 
 I enjoy sharing my knowledge and experience with other people that help them grow as a better developers.
-For this purpose I have [personal website](https://antondevtips.com/) where I write blogs about backend and frontend development: https://antondevtips.com/
+For this purpose I have [personal website](https://antondevtips.com/) where I write blogs about .NET and architecture: https://antondevtips.com/
 
 Make sure to hit a [subscribe](https://antondevtips.com/#subscribe) button on my website to receive a newsletter: you will find there everything you need to become a better developer!
