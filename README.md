@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Anton Martyniuk and I am a Senior Tech Lead with more than 10 years of experience in full stack development. I am currently living and working in Ukraine.
+My name is Anton Martyniuk and I am a Microsoft MVP and a Senior Tech Lead with more than 10 years of experience in full stack development. I am currently living and working in Ukraine.
 I am responsible for leading and developing finance, retail and social software in my company. 
 
 I have an exceptional expertise in C#, NET/.NET Core, ASP.NET Core, EF Core, GraphQL, and .NET framework. I am skilled in various SQL and NoSQL databases such as MS SQL Server, Postgres, Oracle, SQLite, MongoDB, etc. I have also a solid experience in frontend technologies like HTML, CSS, JavaScript, TypeScript, React, NextJs, Tailwind CSS.
