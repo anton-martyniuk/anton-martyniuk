@@ -6,7 +6,7 @@ I help Software Engineers:
 - Improve their skills in .NET and Architecture.
 - Ship robust, scalable systems faster.
 
-Each Tuesday, 7,000+ developers learn how to craft better software from my weekly newsletter:
+Each Tuesday, 20,000+ developers learn how to craft better software from my weekly newsletter:
 
 https://antondevtips.com/
 
