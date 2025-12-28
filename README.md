@@ -1,7 +1,7 @@
 I help Software Engineers grow into Senior Developers, Technical Leads, and Software Architects
 by teaching them how to design systems that survive growth, scale, and change.
 
-With my help, you will develop the practical skills and architectural mindset required to make confident decisions in .NET systems.
+With my help, you will develop the practical skills and architectural mindset required to make confident decisions in .NET applications.
 
 If you want to stop guessing and start making confident architectural decisions in .NET, you are in the right place.
 
