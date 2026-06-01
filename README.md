@@ -15,7 +15,7 @@ Everything I teach comes from hands-on production experience.
 
 ---
 
-📬 **Weekly Newsletter** (**20,000+** software engineers)
+📬 **Weekly Newsletter** (**25,000+** software engineers)
 
 Each Tuesday, software engineers learn how to build better .NET applications in a 5-minute email.
 
@@ -25,7 +25,7 @@ Each Tuesday, software engineers learn how to build better .NET applications in 
 * Design architecture that survives growth and change
 * Apply ideas immediately with real code examples (.NET)
 * Architectural patterns explained with practical use cases
-* 🎁 Free PDF on subscription: 150 interview questions for C#, ASP.NET Core, EF Core
+* 🎁 Free PDF on subscription: 200 interview questions for C#, ASP.NET Core, EF Core
 
 📩 Get it here → [antondevtips.com](https://antondevtips.com/)
 
@@ -34,7 +34,7 @@ Each Tuesday, software engineers learn how to build better .NET applications in 
 **Why you can trust my content:**
 
 * 🏆 Microsoft MVP since 2025
-* 12+ years in .NET development and software architecture
+* 13+ years in .NET development and software architecture
 * Tech Lead on finance, retail, and large-scale systems
 * 20+ successful projects in 10+ countries
 * Reduced development time for new projects by 30%
